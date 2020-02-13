@@ -26,7 +26,7 @@ end
 def remove_element_from_end_of_array(array)
   array = ["border collie", "poodle", "bull dog", "old english sheepdog"]
 
-  old_english_sheepdog = array.pop 
+  arrays! = array.pop 
 end
 
 def remove_element_from_start_of_array(array)
