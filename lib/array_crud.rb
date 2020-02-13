@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
 array = dogs_array
 element = "cocker spaniel"
 
-dogs_array << element
+dogs_array << "cocker spaniel"
 
 end
 
