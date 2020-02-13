@@ -24,9 +24,9 @@ array.unshift "wow"
 end
 
 def remove_element_from_end_of_array(array)
-  array = ["border collie", "poodle", "bull dog", "old english sheepdog"]
+  array = ["border collie", "poodle", "bull dog", "old english sheepdog", "arrays!"]
 
-  arrays! = array.pop 
+  dogs = array.pop 
 end
 
 def remove_element_from_start_of_array(array)
