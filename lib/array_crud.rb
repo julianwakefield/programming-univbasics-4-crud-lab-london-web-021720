@@ -3,10 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-dog_breeds = ["border collie", "poodle", "bull dog", "old english sheepdog"]
+["border collie", "poodle", "bull dog", "old english sheepdog"]
 end
 
 def add_element_to_end_of_array(array, element)
+
+array = ["border collie", "poodle", "bull dog", "old english sheepdog"]
+element = "cocker spaniel"
 
 array << "cocker spaniel"
 
