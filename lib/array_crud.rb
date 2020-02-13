@@ -26,11 +26,14 @@ end
 def remove_element_from_end_of_array(array)
   array = ["border collie", "poodle", "bull dog", "old english sheepdog", "arrays!"]
 
-  dogs = array.pop 
+  dogs = array.pop
 end
 
 def remove_element_from_start_of_array(array)
+  array = ["wow", "border collie", "poodle", "bull dog", "old english sheepdog", "arrays!"]
 
+  dogs = array.shift
+  
 end
 
 def retrieve_element_from_index(array, index_number)
