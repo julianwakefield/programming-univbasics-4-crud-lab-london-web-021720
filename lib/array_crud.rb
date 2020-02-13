@@ -3,10 +3,14 @@ def create_an_empty_array
 end
 
 def create_an_array
-["border collie", "poodle", "bull dog", "old english sheepdog"]
+dogs_array = ["border collie", "poodle", "bull dog", "old english sheepdog"]
 end
 
 def add_element_to_end_of_array(array, element)
+array = dogs_array
+element = "cocker spaniel"
+
+dogs_array << element
 
 end
 
