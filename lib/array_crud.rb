@@ -33,10 +33,13 @@ def remove_element_from_start_of_array(array)
   array = ["wow", "border collie", "poodle", "bull dog", "old english sheepdog", "arrays!"]
 
   dogs = array.shift
-  
+
 end
 
 def retrieve_element_from_index(array, index_number)
+
+array = ["wow", "border collie", "am", "poodle", "bull dog", "old english sheepdog", "arrays!"]
+index_number = array [2]
 
 end
 
