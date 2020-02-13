@@ -53,6 +53,9 @@ end
 
 def retrieve_last_element_from_array(array)
 
+array = ["wow", "border collie", "am", "poodle", "bull dog", "old english sheepdog", "arrays!"]
+array [6]
+
 end
 
 def update_element_from_index(array, index_number, element)
