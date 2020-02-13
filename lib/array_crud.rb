@@ -60,4 +60,9 @@ end
 
 def update_element_from_index(array, index_number, element)
 
+array = ["wow", "border collie", "am", "poodle", "bull dog", "old english sheepdog", "arrays!"]
+
+array [4] = "totally"
+
+
 end
