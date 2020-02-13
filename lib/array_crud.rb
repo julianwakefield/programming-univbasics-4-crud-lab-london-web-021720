@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-dogs_array << "cocker spaniel"
+array << "cocker spaniel"
 
 end
 
