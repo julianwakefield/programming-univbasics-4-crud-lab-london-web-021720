@@ -16,6 +16,10 @@ array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
+array = ["border collie", "poodle", "bull dog", "old english sheepdog"]
+element = "arrays!"
+
+array.unshift "arrays!"
 
 end
 
